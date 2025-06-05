@@ -254,7 +254,7 @@
                     columnNumber: 17
                   }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("p", {
                     className: "text-lg text-gray-300 leading-relaxed mb-6",
-                    children: "I am passionate about creating innovative solutions that balance performance, maintainability, and accessibility. Currently serving as Staff Engineer at Freshworks, I focus on creating scalable system architectures that efficiently manage and process large-scale data operations."
+                    children: "I am passionate about creating innovative solutions that balance performance, maintainability, and accessibility. Currently serving as Technical Architect at Freshworks, I focus on creating scalable system architectures that efficiently manage and process large-scale data operations."
                   }, void 0, false, {
                     fileName: _jsxFileName,
                     lineNumber: 202,
