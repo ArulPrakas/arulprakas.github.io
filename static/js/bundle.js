@@ -55,25 +55,31 @@
       };
       const experiences = [{
         company: "Freshworks",
-        position: "Staff Engineer",
+        position: "Technical Architect",
         period: "05/2022 - Present",
         location: "Chennai, India",
         description: "Technical Architect for Freshservice/Freshsales products with Freshworks",
-        achievements: ["Re-Architected/Optimised data sync from Shopify sources into Freshsales CRM. Shopify's store with A Million records which used to take multiple hours to sync back, Revamped complete system end-end to process in a couple of minutes.", "Redesigned the data import process for Freshsales CRM from the ground up, developing a high-scale, low-latency, message-driven parallel processing system. This solution ingests approximately 1 million records within 2 hours.", "Designing the future generation user management for Freshservice - a modern IT service management (ITSM) tool"]
+        achievements: ["Delivered breakthrough performance optimization - Spearheaded complete architectural overhaul of Shopify data synchronization, achieving 95%+ performance improvement by redesigning end-to-end processing pipeline for million-record datasets", 
+          "Built high-throughput data ingestion platform - Architected message-driven parallel processing system for Freshsales CRM, achieving 500K records/hour throughput with low-latency performance for enterprise-scale data imports", 
+          "Leading next-generation identity architecture - Designing modernized user management infrastructure for Freshservice ITSM platform, establishing scalable foundation for future service delivery capabilities"]
       }, {
         company: "SoftwareAG",
         position: "Principal Engineer",
         period: "02/2012 - 05/2022",
         location: "Chennai, India",
-        description: "Key architect for the design and development of webMethods Developer Portal",
-        achievements: ["Designed cloud native SAAS offering from scratch", "Led a cross-functional engineering team to deliver high-quality enterprise software solutions", "Mentored team, sharing skills and expertise and encouraged ideas for improvement", "Introduced methodologies and best practices enhancing product definition and application customization"]
+        description: "Principal architect for the design and development of webMethods Developer Portal",
+        achievements: ["Spearheaded cloud-native architecture design for enterprise developer portal, creating scalable SaaS infrastructure and technical foundation from initial concept through production deployment", 
+          "Managed cross-functional engineering teams to deliver complex enterprise software solutions, coordinating development efforts across multiple disciplines while maintaining high quality standards", 
+          "Provided technical mentorship and leadership to engineering staff, facilitating knowledge transfer and promoting collaborative problem-solving approaches that drove team performance improvements", 
+          "Implemented systematic development practices including standardized methodologies and customization frameworks that enhanced product definition accuracy and deployment efficiency"]
       }, {
         company: "Informatica",
         position: "Software Engineer",
         period: "07/2008 - 01/2012",
         location: "Bangalore, India",
         description: "Core team member of Metadata manager - Data governance product",
-        achievements: ["Developed various core connectors for Metadata manager which extracts metadata various relational sources like Oracle, DB2, Teradata etc", "Designed and developed robust solutions for functionality, scalability, and performance"]
+        achievements: ["Built enterprise data connectors - Developed critical integration components for metadata extraction from major relational database systems including Oracle, DB2, and Teradata, enabling comprehensive data lineage tracking", 
+          "Engineered scalable data solutions - Designed and implemented robust architecture supporting high-performance metadata processing with enterprise-grade functionality and scalability requirements"]
       }];
       const skills = {
         "Programming": ["Java", "Ruby", ".Net"],
